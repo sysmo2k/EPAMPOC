@@ -3,7 +3,7 @@ public class trgEPAM_Test {
          @isTest static void Test1Test()
     {
         EPAM__c t3 = new EPAM__c();
-        t3.Product__c = 'Burger';
+        t3.Product__c = 'Pizza';
         t3.Rate__c = 2.99;
         t3.Qty__c = 3;
         
